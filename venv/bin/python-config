@@ -1,4 +1,4 @@
-#!/home/harrypotter0/Documents/Python-web-development/mywebsite/mysite/venv/bin/python
+#!/home/harrypotter0/Documents/djangosite/venv/bin/python
 
 import sys
 import getopt
